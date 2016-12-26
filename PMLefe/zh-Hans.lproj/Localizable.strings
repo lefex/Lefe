@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings
+  PMLefe
+
+  Created by wsy on 16/6/4.
+  Copyright © 2016年 WSY. All rights reserved.
+*/
+
+
+// 共同
+"pm_cancel" = "取消";
+"pm_ok" = "确定";
+"pm_photos" = "照片";
+"pm_videos" = "视频";
+"pm_note" = "笔记";
+"pm_audio" = "录音";
+"pm_password" = "收藏";
+"pm_cammera" = "相机";
+
+
+// 相册
+"ph_save_to_album" = "保存到相册";
+"ph_please_input_album_name" = "请输入相册名称";
+"ph_album" = "相册";
+"ph_max_album_name" = "最多";
+"ph_max_album_name2" = "字";
+"ph_detail" = "详情";
+"ph_setPwd" = "设置密码";
+"ph_updatePwd" = "更新密码";
+"ph_hidden" = "隐藏";
+"ph_delete_album" = "删除相册";
+"ph_delete_album_alert" = "确定要删除相册，并删除该相册中所有的照片？";
+"ph_all_output" = "全部导出到手机相册";
+"ph_custom_output" = "自定义导出到手机相册";
+"ph_add" = "添加";
+"ph_delete" = "删除";
+"ph_save_to_cloud" = "保存到iCloud";
+"ph_detail" = "详情";
+"ph_create_time" = "创建时间";
+"ph_photo_count" = "图片数";
+"ph_size" = "容量";
+"ph_description" = "描述";
+"ph_all_photos" = "所有的照片";
+"ph_output_all_to_albums" = "确定将这个相册中的所有照片导出到手机相册？";
+"ph_output_part_to_albums" = "确定将选择的照片导出到手机相册？";
+"ph_delete_photos" = "确定删除选中的照片吗？";
+"ph_delete_success" = "删除成功";
+"ph_no_photo" = "暂无相册";
+"ph_add_photo" = "你可以从首页添加相册，相册可以加密，防止别人查看你的相册";
+
+
+
+// 录音
+"au_begin_audio_alert" = "你确定要重新开始录音吗?";
+"au_my_audio" = "我的录音";
+"au_no_audio" = "暂无录音";
+"au_add_audio" = "你可以从首页添加录音，记录生活中美妙的声音";
+"au_have_save" = "录音已保存到我的录音中";
+"au_play" = "播放";
+"au_cancel_alert" = "您的录音还没保存，是否保存?";
+"au_save" = "保存";
+
+
+// 设置
+"se_setting" = "设置";
+"se_about" = "关于";
+"se_me" = "我的";
+"se_lastest" = "最近";
+"se_set_font" = "设置字体";
+"se_welcome" = "欢迎使用 Lefe";
+"se_font" = "字体";
+"se_font_size" = "字体大小";
+"se_record_life" = "记录生活中的点点滴滴";
+"se_problem_feedback" = "问题反馈";
+"se_welcome_feedback" = "欢迎反馈";
+"se_home" = "主页";
+"se_version" = "版本";
+"se_current_version" = "当前版本";
+"se_about_lefe" = "关于Lefe";
+"se_feedback_alert" = "你还没绑定邮箱，可直接给我们发邮件 <wsyxyxs@126.com>";
+"se_start_pwd" = "启动密码";
+"se_pwd_alert" = "您可以设置进入APP的密码，一旦忘记将无法找回，请牢记密码";
+"se_have_set" = "已开启";
+"se_not_set" = "未设置";
+"se_set_start_pwd" = "设置启动密码";
+"se_close_pwd" = "关闭密码";
+
+// 笔记
+"no_add_note" = "添加笔记";
+"no_input_subject" = "请输入标题";
+"no_input_content" = "请输入内容";
+"no_delete_alert" = "确定删除笔记？";
+"no_no_note" = "暂无笔记";
+"no_note_empty" = "你可以从首页添加笔记";
+"no_use_start_pwd" = "使用启动密码";
+
+// 收藏
+"cl_add_collection" = "添加收藏";
+"cl_input_password" = "请输入密码";
+"cl_input_account" = "请输入账号";
+"cl_collection" = "收藏";
+"cl_input_text" = "请输入文本";
+"cl_delete_alert" = "确定删除收藏？";
+"cl_no_collections" = "暂无收藏";
+"cl_empty_collections" = "你可以从首页添加收藏，收藏可以是密码、文本";
+
+// 密码
+"pa_pwd" = "密码";
+"pa_input_pwd" = "请输入密码";
+"pa_two_different" = "两次输入的密码不一致，请重写输入！";
+"pa_input_again" = "请再次输入";
+"pa_input_old_pwd" = "请输入旧密码";
+"pa_pwd_error" = "密码错误,请重新输入";
+"pa_input_new_pwd" = "请输入新密码";
+"pa_input_new_pwd_again" = "请再输入新密码";
+
+// 客服团队
+"cu_customer" = "开发团队";
+"cu_first_msg" = "您好，我是开发者Lefe，如果您在使用过程中发现问题，或者有什么好的想法，都可以和我交流，你也可以通过以下方式和我联系，QQ：938346705，新浪微博：Lefe_x";
+"cu_story_msg" = " Lefe 诞生记：\n 场景一：\n某天和A同学聊天，突然他说看看你的手机吧，我无奈之下答应了，他看了我的相册，但是某些相片我不想让别人看到，这时我很无奈；\n 场景二：\n我今天突然想登录 FaceBook ，我的账号是什么呢？密码呢？我记得曾经注册过，只是很久没用 FaceBook 了，很多时候我都忘记了密码，这时我很无奈；\n场景三：\n我喜欢写一些日记，但是我不想让别人看到，更不想把他放到网上，因为我担心不安全，这时我很无奈；\n场景四：\n我有一些视频和一些秘密的文字，但是我不想让别人看，这时我很无奈。\n --- 就在这时 Lefe 出现了，生活似乎变得美好了。";
+
+
+
+

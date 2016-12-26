@@ -1,0 +1,36 @@
+PODS:
+  - Appsee (2.2)
+  - Bugtags (1.2.4)
+  - Realm (0.98.8):
+    - Realm/Headers (= 0.98.8)
+  - Realm/Headers (0.98.8)
+  - RealmSwift (0.98.8):
+    - Realm (= 0.98.8)
+  - RxCocoa (2.4):
+    - RxSwift (~> 2.4)
+  - RxSwift (2.4)
+  - SnapKit (0.18.0)
+  - UMengFeedback (2.3.4)
+
+DEPENDENCIES:
+  - Appsee
+  - Bugtags
+  - RealmSwift (~> 0.98.8)
+  - RxCocoa (~> 2.4)
+  - RxSwift (~> 2.4)
+  - SnapKit (~> 0.18.0)
+  - UMengFeedback (~> 2.3.4)
+
+SPEC CHECKSUMS:
+  Appsee: c95173e65acaab0ffc8a082c70633c9f5f45d5f0
+  Bugtags: 4dc91ed7fd5edea46f411c0603777d89016089e8
+  Realm: 0e293bb62999730599efc3048896bbd4f2e43bcd
+  RealmSwift: 064262d38113f23ff3508fb20a0a922e696bec01
+  RxCocoa: 7d6cd877de99f5640306b3d6cf87f580c1d91b61
+  RxSwift: 67b9ef4e8b34fb394e200e754c6a09cc16559f94
+  SnapKit: e1f090a6d47b1dd4bd89b73f72b6746a7835ef3c
+  UMengFeedback: 5283cc0e324dffca4dd54c4abb3cbded56487817
+
+PODFILE CHECKSUM: 18cb2c07c9aa448a81e050f1f80e35a09c29cad3
+
+COCOAPODS: 1.0.1

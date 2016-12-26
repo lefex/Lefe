@@ -1,0 +1,12 @@
+EMBEDDED_CONTENT_CONTAINS_SWIFT = YES
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$(PODS_ROOT)/Bugtags/" "$PODS_CONFIGURATION_BUILD_DIR/Realm" "$PODS_CONFIGURATION_BUILD_DIR/RealmSwift" "$PODS_CONFIGURATION_BUILD_DIR/RxCocoa" "$PODS_CONFIGURATION_BUILD_DIR/RxSwift" "$PODS_CONFIGURATION_BUILD_DIR/SnapKit" "$PODS_CONFIGURATION_BUILD_DIR/UMengFeedback" "${PODS_ROOT}/Appsee/Appsee"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Appsee" "${PODS_ROOT}/Headers/Public/Bugtags"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+LIBRARY_SEARCH_PATHS = $(inherited) "$(PODS_ROOT)/UMengFeedback/**"
+OTHER_CFLAGS = $(inherited) -iquote "$PODS_CONFIGURATION_BUILD_DIR/Realm/Realm.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/RealmSwift/RealmSwift.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/RxCocoa/RxCocoa.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/RxSwift/RxSwift.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/SnapKit/SnapKit.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/UMengFeedback/UMengFeedback.framework/Headers" -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/Appsee" -isystem "${PODS_ROOT}/Headers/Public/Bugtags"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"z" -framework "AVFoundation" -framework "Appsee" -framework "Bugtags" -framework "CFNetwork" -framework "CoreGraphics" -framework "CoreLocation" -framework "CoreMedia" -framework "CoreVideo" -framework "ImageIO" -framework "QuartzCore" -framework "Realm" -framework "RealmSwift" -framework "RxCocoa" -framework "RxSwift" -framework "Security" -framework "SnapKit" -framework "SystemConfiguration" -framework "UIKit" -framework "UMengFeedback"
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "COCOAPODS"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}/Pods

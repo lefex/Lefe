@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  PMLefe
+
+  Created by wsy on 16/6/4.
+  Copyright © 2016年 WSY. All rights reserved.
+*/
+
+// 共同
+"pm_cancel" = "Cancel";
+"pm_ok" = "Ok";
+"pm_photos" = "Photo";
+"pm_videos" = "Video";
+"pm_note" = "Note";
+"pm_audio" = "Audio";
+"pm_password" = "Collection";
+"pm_cammera" = "Camera";
+
+
+// 相册
+"ph_save_to_album" = "Save to album";
+"ph_please_input_album_name" = "Please enter a name for the album.";
+"ph_album" = "Album";
+"ph_max_album_name" = "Up to";
+"ph_max_album_name2" = "words";
+"ph_detail" = "Detail";
+"ph_setPwd" = "Set/Update password";
+"ph_setPwd" = "Set password";
+"ph_updatePwd" = "Update password";
+"ph_hidden" = "Hidden";
+"ph_delete_album" = "Delete album";
+"ph_delete_album_alert" = "Are you want to delete the album, and delete all the photos in the album? ";
+"ph_all_output" = "All export to mobile photo album ";
+"ph_custom_output" = "Custom export to mobile phone album ";
+"ph_add" = "Add";
+"ph_delete" = "Delete";
+"ph_save_to_cloud" = "Save to iCloud";
+"ph_detail" = "Detail";
+"ph_create_time" = "Create time";
+"ph_photo_count" = "Photo count";
+"ph_size" = "Size";
+"ph_description" = "Description";
+"ph_all_photos" = "All photos";
+"ph_output_all_to_albums" = "Make sure to export all the photos in this album to the system photo albums?";
+"ph_output_part_to_albums" = "Make sure to export selecting photos to the system photo albums?";
+"ph_delete_photos" = "Make sure to delete selecting photos?";
+"ph_delete_success" = "Delecte success";
+"ph_no_photo" = "No photos";
+"ph_add_photo" = "You can add albums from the home page, album can be encrypted to prevent others view your album";
+
+// 录音
+"au_begin_audio_alert" = "Are you sure you want to restart the recording?";
+"au_my_audio" = "My audios";
+"au_no_audio" = "No audios";
+"au_add_audio" = "You can add a recording from the home page to record the wonderful voice in your life.";
+"au_have_save" = "The audio have saved to my audio";
+"au_play" = "Play";
+"au_cancel_alert" = "You audio are not save, are you want to save?";
+"au_save" = "Save";
+
+// 设置
+"se_setting" = "Setting";
+"se_about" = "About";
+"se_me" = "Me";
+"se_lastest" = "Lastest";
+"se_set_font" = "Setting font";
+"se_welcome" = "Welcome to use Lefe";
+"se_font" = "Font";
+"se_font_size" = "Font size";
+"se_record_life" = "Record every bit of life ";
+"se_problem_feedback" = "Problem feedback ";
+"se_welcome_feedback" = "Welcome feedback ";
+"se_home" = "Homepage";
+"se_version" = "Version";
+"se_current_version" = "Current version";
+"se_about_lefe" = "About Lefe";
+"se_feedback_alert" = "You are not bound to the mailbox, you can send a message directly to us  <wsyxyxs@126.com>";
+"se_start_pwd" = "Start password";
+"se_pwd_alert" = "You are set to enter the APP password, once forgotten will not be able to recover, please remember the password";
+"se_have_set" = "Have set";
+"se_not_set" = "Not set";
+"se_set_start_pwd" = "Setting start password";
+"se_close_pwd" = "Close password";
+
+
+// 笔记
+"no_add_note" = "Add note";
+"no_input_subject" = "Please input subject";
+"no_input_content" = "Please input content";
+"no_delete_alert" = "Are you sure delete this note？";
+"no_no_note" = "No notes";
+"no_note_empty" = "You can add notes from home page";
+"no_use_start_pwd" = "Use start password";
+
+// 收藏
+"cl_add_collection" = "Add collection";
+"cl_input_password" = "Please input password";
+"cl_collection" = "Collection";
+"cl_input_account" = "Please input account";
+"cl_input_text" = "Please input text";
+"cl_delete_alert" = "Are you sure delete this collection？";
+"cl_no_collections" = "No collections";
+"cl_empty_collections" = "You can add collections from home page, such as password or text";
+
+// 密码
+"pa_pwd" = "Password";
+"pa_input_pwd" = "Please input password";
+"pa_two_different" = "The two entered the password is not consistent, please rewrite!";
+"pa_input_again" = "Please input again";
+"pa_input_old_pwd" = "Please input old password";
+"pa_pwd_error" = "Password error, input again";
+"pa_input_new_pwd" = "Please input new password";
+"pa_input_new_pwd_again" = "Please input new password again";
+
+// 客服团队
+"cu_customer" = "Developer";
+"cu_first_msg" = "Hello, I am lefe, a iOS developer, if you have any good ideas or any problems when use this APP, you can communicate with me. You can also contact me in the following way. QQ:938346705, Sina Weibo: lefe_x";
+
+
+
